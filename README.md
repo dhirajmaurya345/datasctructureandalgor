@@ -2,7 +2,7 @@
 Steps to learn data sctructure and algorithm 
 
 1. Learn a programming language
-2. learn about Complexity
+2. learn about Complexity  
    a. Time Comlexity 
        There are five types of Time complexity Cases:
        Constant Time Complexity - O(1)
