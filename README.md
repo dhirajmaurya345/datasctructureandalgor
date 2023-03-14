@@ -3,7 +3,7 @@ Steps to learn data sctructure and algorithm
 
 1. Learn a programming language
 2. learn about Complexity  
-   a. Time Comlexity
+   a. Time Comlexity : 
      There are five types of Time complexity Cases:
        Constant Time Complexity - O(1)
        Logarithmic Time Complexity - O(log n)
@@ -11,7 +11,7 @@ Steps to learn data sctructure and algorithm
        O(n log n) Time Complexity
        Quadratic Time Complexity - O(n2)
 
-   b. Space complexity     
+   b. Space complexity :   
     O(1) – constant complexity – takes the same amount of space regardless of the input size
     O(log n) – logarithmic complexity – takes space proportional to the log of the input size
     O(n) – linear complexity – takes space directly proportional to the input size
