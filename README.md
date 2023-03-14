@@ -19,9 +19,33 @@ Steps to learn data sctructure and algorithm
     O(n^2) – square/polynomial complexity – space complexity grows proportionally to the square of the input size
 
 3. Data Structure and algorithm 
-   1. Array
-   2. String
-   3. Linked List
+   1. Array or Object
+   
+   Big O of Object methode: 
+   1. Object.key - O(n)
+   2. Object.value - O(n)
+   3. Object.enteries - O(n)
+   4. hasOwnProperty - O(n)
+   5. Insertion - O(1)
+   7. Removal -O(1) 
+   8. Searching - O(n)
+   9. Access  - O(1)
+   
+   Big O of Array methode: 
+   1. Searching -  O(n)
+   2. Access - O(n)
+   3. push - O(1)
+   4. pop - O(1)
+   5. Shift - O(n)
+   6. unshift - O(n)
+   7. concat - O(n)
+   8. slice - O(n)
+   9. splice - O(n)
+   10. sort - O(nlogn)
+   11. forEach/map/filter/reduce/ect - O(n)
+   
+   3. String
+   4. Linked List
    
    
    ....in progress
