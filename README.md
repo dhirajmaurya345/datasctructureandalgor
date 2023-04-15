@@ -47,6 +47,36 @@ Steps to learn data sctructure and algorithm
    3. String
    4. Linked List
    
+   Lession 1
+   Objectives
+   1.Define what is algorithm is 
+   
+   2.Devise a plan to solve algorithm
+   
+   3.Compare and contrast problem solving 
+     patterns including frequency counter, 
+     two pointer problem and
+     devide and conquer
+   
+   How to improve
+   1.Devise a plan to solve algorithm
+   2.Master common problem solving pattern
+   
+ First thing is 
+ understand the problem 
+ explore concrete examples
+ break it down
+ solve/simply problem
+ look back and refactor
+ 
+  Understand the problem 
+  1.
+  
+  
+  
+  
+ 
+   
    
    ....in progress
    
